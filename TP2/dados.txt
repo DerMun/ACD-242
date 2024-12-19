@@ -1,0 +1,942 @@
+============================================== sample100-1980 ==============================================
+
+---> Algoritmo: Caminho Mínimo (Dijkstra)
+
+Digrafo Lista de Adjacências exe
+Tempo de execução: 1845800 ns
+Tempo de execução: 2854300 ns
+Tempo de execução: 948000 ns
+Tempo de execução: 843600 ns
+Tempo de execução: 1341300 ns
+Tempo de execução: 935800 ns
+Tempo de execução: 779000 ns
+Tempo de execução: 1884500 ns
+Tempo de execução: 897700 ns
+Tempo de execução: 844600 ns
+
+Digrafo Matriz de Adjacências exe
+Tempo de execução: 3320100 ns
+Tempo de execução: 376179100 ns
+Tempo de execução: 978800 ns
+Tempo de execução: 921700 ns
+Tempo de execução: 861200 ns
+Tempo de execução: 1209200 ns
+Tempo de execução: 1009000 ns
+Tempo de execução: 1111400 ns
+Tempo de execução: 1071600 ns
+Tempo de execução: 1156800 ns
+
+Média dos tempos para Lista de Adjacências: 1.338.700 ns
+Média dos tempos para Matriz de Adjacências: 38.623.190 ns
+
+
+
+---> Algoritmo: Caminho Mínimo (Bellman-Ford)
+
+Digrafo Lista de Adjacências exe
+Tempo de execução: 46150600 ns
+Tempo de execução: 20776600 ns
+Tempo de execução: 8025200 ns
+Tempo de execução: 8029100 ns
+Tempo de execução: 8038000 ns
+Tempo de execução: 519018400 ns
+Tempo de execução: 5370600 ns
+Tempo de execução: 4738900 ns
+Tempo de execução: 5969500 ns
+Tempo de execução: 4377000 ns
+
+Digrafo Matriz de Adjacências exe
+Tempo de execução: 379268500 ns
+Tempo de execução: 11470500 ns
+Tempo de execução: 227400700 ns
+Tempo de execução: 11295900 ns
+Tempo de execução: 292202600 ns
+Tempo de execução: 16304000 ns
+Tempo de execução: 29770400 ns
+Tempo de execução: 10513300 ns
+Tempo de execução: 11297100 ns
+Tempo de execução: 61126100 ns
+
+Média dos tempos para Lista de Adjacências: 63.771.530 ns
+Média dos tempos para Matriz de Adjacências: 94.816.410 ns
+
+============================================== sample100-3960 ==============================================
+
+---> Algoritmo: Caminho Mínimo (Dijkstra)
+
+Digrafo Lista de Adjacências exe
+Tempo de execução: 6275900 ns
+Tempo de execução: 2199400 ns
+Tempo de execução: 1849100 ns
+Tempo de execução: 3599100 ns
+Tempo de execução: 1895500 ns
+Tempo de execução: 980800 ns
+Tempo de execução: 3117400 ns
+Tempo de execução: 1683200 ns
+Tempo de execução: 648100 ns
+Tempo de execução: 636600 ns
+
+Digrafo Matriz de Adjacências exe
+Tempo de execução: 339517500 ns
+Tempo de execução: 2448900 ns
+Tempo de execução: 2345800 ns
+Tempo de execução: 2338800 ns
+Tempo de execução: 2320700 ns
+Tempo de execução: 133915100 ns
+Tempo de execução: 793200 ns
+Tempo de execução: 734000 ns
+Tempo de execução: 570000 ns
+Tempo de execução: 537300 ns
+
+Digrafo Lista de Adjacências: 2.288.510 ns
+Digrafo Matriz de Adjacências: 48.552.130 ns
+
+
+
+---> Algoritmo: Caminho Mínimo (Bellman-Ford)
+
+Digrafo Lista de Adjacências exe
+Tempo de execução: 27113300 ns
+Tempo de execução: 28104800 ns
+Tempo de execução: 19155600 ns
+Tempo de execução: 8077000 ns
+Tempo de execução: 8026600 ns
+Tempo de execução: 7687400 ns
+Tempo de execução: 7318500 ns
+Tempo de execução: 9548500 ns
+Tempo de execução: 7378300 ns
+Tempo de execução: 7753200 ns
+
+Digrafo Matriz de Adjacências exe
+Tempo de execução: 224101200 ns
+Tempo de execução: 195915900 ns
+Tempo de execução: 80410900 ns
+Tempo de execução: 18924700 ns
+Tempo de execução: 16273900 ns
+Tempo de execução: 18006400 ns
+Tempo de execução: 15671600 ns
+Tempo de execução: 16688500 ns
+Tempo de execução: 144289800 ns
+Tempo de execução: 17164400 ns
+
+Digrafo Lista de Adjacências: 13.016.320 ns
+Digrafo Matriz de Adjacências: 74.744.730 ns
+
+============================================== sample100-5940 ==============================================
+
+---> Algoritmo: Caminho Mínimo (Dijkstra)
+
+Digrafo Lista de Adjacências exe
+Tempo de execução: 7280900 ns
+Tempo de execução: 4409300 ns
+Tempo de execução: 3828000 ns
+Tempo de execução: 912900 ns
+Tempo de execução: 862800 ns
+Tempo de execução: 701100 ns
+Tempo de execução: 819600 ns
+Tempo de execução: 696700 ns
+Tempo de execução: 714900 ns
+Tempo de execução: 785900 ns
+
+Digrafo Matriz de Adjacências exe
+Tempo de execução: 3121100 ns
+Tempo de execução: 1385500 ns
+Tempo de execução: 202000200 ns
+Tempo de execução: 1440600 ns
+Tempo de execução: 1440000 ns
+Tempo de execução: 1437300 ns
+Tempo de execução: 57924900 ns
+Tempo de execução: 1123100 ns
+Tempo de execução: 1139000 ns
+Tempo de execução: 1034000 ns
+
+Digrafo Lista de Adjacências: 2.101.210 ns
+Digrafo Matriz de Adjacências: 27.204.570 ns
+
+
+
+---> Algoritmo: Caminho Mínimo (Bellman-Ford)
+
+Digrafo Lista de Adjacências exe
+Tempo de execução: 36307500 ns
+Tempo de execução: 83848300 ns
+Tempo de execução: 7219900 ns
+Tempo de execução: 64156200 ns
+Tempo de execução: 48130800 ns
+Tempo de execução: 131885600 ns
+Tempo de execução: 14421000 ns
+Tempo de execução: 6564000 ns
+Tempo de execução: 6263200 ns
+Tempo de execução: 6560200 ns
+
+Digrafo Matriz de Adjacências exe
+Tempo de execução: 74985100 ns
+Tempo de execução: 27009600 ns
+Tempo de execução: 112833700 ns
+Tempo de execução: 351033100 ns
+Tempo de execução: 20019700 ns
+Tempo de execução: 19792700 ns
+Tempo de execução: 17424900 ns
+Tempo de execução: 20419400 ns
+Tempo de execução: 17450700 ns
+Tempo de execução: 20196000 ns
+
+Digrafo Lista de Adjacências: 45.448.650 ns
+Digrafo Matriz de Adjacências: 84.917.990 ns
+
+============================================== sample100-7920 ==============================================
+
+---> Algoritmo: Caminho Mínimo (Dijkstra)
+
+Digrafo Lista de Adjacências exe
+Tempo de execução: 34563600 ns
+Tempo de execução: 6377300 ns
+Tempo de execução: 1340800 ns
+Tempo de execução: 1416100 ns
+Tempo de execução: 2036900 ns
+Tempo de execução: 3359300 ns
+Tempo de execução: 2534900 ns
+Tempo de execução: 1416500 ns
+Tempo de execução: 1324800 ns
+Tempo de execução: 1260800 ns
+
+Digrafo Matriz de Adjacências exe
+Tempo de execução: 4975100 ns
+Tempo de execução: 50271000 ns
+Tempo de execução: 3235700 ns
+Tempo de execução: 1836200 ns
+Tempo de execução: 1698500 ns
+Tempo de execução: 1670800 ns
+Tempo de execução: 1693300 ns
+Tempo de execução: 1660600 ns
+Tempo de execução: 1694000 ns
+Tempo de execução: 3551600 ns
+
+Digrafo Lista de Adjacências: 5.247.800 ns
+Digrafo Matriz de Adjacências: 8.246.900 ns
+
+
+
+---> Algoritmo: Caminho Mínimo (Bellman-Ford)
+
+Digrafo Lista de Adjacências exe
+Tempo de execução: 44547100 ns
+Tempo de execução: 116260500 ns
+Tempo de execução: 281245900 ns
+Tempo de execução: 34361700 ns
+Tempo de execução: 13341700 ns
+Tempo de execução: 16194100 ns
+Tempo de execução: 24602000 ns
+Tempo de execução: 14999300 ns
+Tempo de execução: 11807700 ns
+Tempo de execução: 8536800 ns
+
+Digrafo Matriz de Adjacências exe
+Tempo de execução: 163598500 ns
+Tempo de execução: 68794300 ns
+Tempo de execução: 85583900 ns
+Tempo de execução: 166237500 ns
+Tempo de execução: 19808900 ns
+Tempo de execução: 21912100 ns
+Tempo de execução: 19714700 ns
+Tempo de execução: 45219800 ns
+Tempo de execução: 19655800 ns
+Tempo de execução: 21828400 ns
+
+Digrafo Lista de Adjacências: 63.189.780 ns
+Digrafo Matriz de Adjacências: 60.436.720 ns
+
+
+
+============================================== sample100-9900 ==============================================
+
+---> Algoritmo: Caminho Mínimo (Dijkstra)
+
+Digrafo Lista de Adjacências exe
+Tempo de execução: 12573200 ns
+Tempo de execução: 4383400 ns
+Tempo de execução: 1476600 ns
+Tempo de execução: 1417100 ns
+Tempo de execução: 1389700 ns
+Tempo de execução: 1317400 ns
+Tempo de execução: 5091900 ns
+Tempo de execução: 1593300 ns
+Tempo de execução: 1332200 ns
+Tempo de execução: 1323700 ns
+
+Digrafo Matriz de Adjacências exe
+Tempo de execução: 11538600 ns
+Tempo de execução: 1989100 ns
+Tempo de execução: 2475300 ns
+Tempo de execução: 2016500 ns
+Tempo de execução: 2019500 ns
+Tempo de execução: 1972200 ns
+Tempo de execução: 2102600 ns
+Tempo de execução: 1999200 ns
+Tempo de execução: 1977100 ns
+Tempo de execução: 1971500 ns
+
+Digrafo Lista de Adjacências: 2.970.760 ns
+Digrafo Matriz de Adjacências: 3.048.060 ns
+
+
+
+---> Algoritmo: Caminho Mínimo (Bellman-Ford)
+
+Digrafo Lista de Adjacências exe
+Tempo de execução: 36663000 ns
+Tempo de execução: 17172500 ns
+Tempo de execução: 17661200 ns
+Tempo de execução: 14969300 ns
+Tempo de execução: 13750900 ns
+Tempo de execução: 14073400 ns
+Tempo de execução: 25422400 ns
+Tempo de execução: 14874700 ns
+Tempo de execução: 27779200 ns
+Tempo de execução: 339452400 ns
+
+Digrafo Matriz de Adjacências exe
+Tempo de execução: 58488600 ns
+Tempo de execução: 27171800 ns
+Tempo de execução: 99239900 ns
+Tempo de execução: 193730600 ns
+Tempo de execução: 30974100 ns
+Tempo de execução: 59584500 ns
+Tempo de execução: 61574900 ns
+Tempo de execução: 23828500 ns
+Tempo de execução: 24213000 ns
+Tempo de execução: 33965600 ns
+
+Digrafo Lista de Adjacências: 60.672.000 ns
+Digrafo Matriz de Adjacências: 80.221.900 ns
+
+
+
+============================================== sample200-7960 ==============================================
+
+---> Algoritmo: Caminho Mínimo (Dijkstra)
+
+Digrafo Lista de Adjacências exe
+Tempo de execução: 7054700 ns
+Tempo de execução: 4363500 ns
+Tempo de execução: 12324400 ns
+Tempo de execução: 19477100 ns
+Tempo de execução: 1097700 ns
+Tempo de execução: 1052100 ns
+Tempo de execução: 975600 ns
+Tempo de execução: 1212600 ns
+Tempo de execução: 21108600 ns
+Tempo de execução: 1045300 ns
+
+Digrafo Matriz de Adjacências exe
+Tempo de execução: 7917400 ns
+Tempo de execução: 4706500 ns
+Tempo de execução: 24282000 ns
+Tempo de execução: 479305100 ns
+Tempo de execução: 6146900 ns
+Tempo de execução: 2036800 ns
+Tempo de execução: 1809500 ns
+Tempo de execução: 1686400 ns
+Tempo de execução: 1740500 ns
+Tempo de execução: 2786100 ns
+
+Digrafo Lista de Adjacências: 7.898.320 ns
+Digrafo Matriz de Adjacências: 57.280.420 ns
+
+
+
+---> Algoritmo: Caminho Mínimo (Bellman-Ford)
+
+Digrafo Lista de Adjacências exe
+Tempo de execução: 194420600 ns
+Tempo de execução: 956397000 ns
+Tempo de execução: 36263300 ns
+Tempo de execução: 204215600 ns
+Tempo de execução: 37040900 ns
+Tempo de execução: 27330400 ns
+Tempo de execução: 27086900 ns
+Tempo de execução: 41297700 ns
+Tempo de execução: 133164500 ns
+Tempo de execução: 30877300 ns
+
+Digrafo Matriz de Adjacências exe
+Tempo de execução: 460316200 ns
+Tempo de execução: 955312400 ns
+Tempo de execução: 348731200 ns
+Tempo de execução: 129017600 ns
+Tempo de execução: 156525200 ns
+Tempo de execução: 97781400 ns
+Tempo de execução: 113701500 ns
+Tempo de execução: 127571500 ns
+Tempo de execução: 145282100 ns
+Tempo de execução: 90702700 ns
+
+Digrafo Lista de Adjacências: 184.666.870 ns
+Digrafo Matriz de Adjacências: 257.413.910 ns
+
+
+
+============================================== sample200-15920 ==============================================
+
+---> Algoritmo: Caminho Mínimo (Dijkstra)
+
+Digrafo Lista de Adjacências exe
+Tempo de execução: 14198900 ns
+Tempo de execução: 2724700 ns
+Tempo de execução: 2588100 ns
+Tempo de execução: 3449700 ns
+Tempo de execução: 2221000 ns
+Tempo de execução: 2207300 ns
+Tempo de execução: 2203300 ns
+Tempo de execução: 2175800 ns
+Tempo de execução: 2119400 ns
+Tempo de execução: 3563400 ns
+
+Digrafo Matriz de Adjacências exe
+Tempo de execução: 8365900 ns
+Tempo de execução: 5911100 ns
+Tempo de execução: 572749700 ns
+Tempo de execução: 4179600 ns
+Tempo de execução: 4050400 ns
+Tempo de execução: 4852700 ns
+Tempo de execução: 3830900 ns
+Tempo de execução: 3892000 ns
+Tempo de execução: 475897100 ns
+Tempo de execução: 4323900 ns
+
+Digrafo Lista de Adjacências: 3.194.570 ns
+Digrafo Matriz de Adjacências: 108.039.740 ns
+
+
+
+---> Algoritmo: Caminho Mínimo (Bellman-Ford)
+
+Digrafo Lista de Adjacências exe
+Tempo de execução: 157465600 ns
+Tempo de execução: 1393005500 ns
+Tempo de execução: 43842900 ns
+Tempo de execução: 59897200 ns
+Tempo de execução: 55466800 ns
+Tempo de execução: 69838600 ns
+Tempo de execução: 176916600 ns
+Tempo de execução: 105347500 ns
+Tempo de execução: 39424900 ns
+Tempo de execução: 39503100 ns
+
+Digrafo Matriz de Adjacências exe
+Tempo de execução: 319481300 ns
+Tempo de execução: 263683600 ns
+Tempo de execução: 161398200 ns
+Tempo de execução: 177279300 ns
+Tempo de execução: 158235800 ns
+Tempo de execução: 178815900 ns
+Tempo de execução: 600328700 ns
+Tempo de execução: 147248600 ns
+Tempo de execução: 164635800 ns
+Tempo de execução: 234609800 ns
+
+Digrafo Lista de Adjacências: 247.726.670 ns
+Digrafo Matriz de Adjacências: 240.971.300 ns
+
+============================================== sample200-23880 ==============================================
+
+---> Algoritmo: Caminho Mínimo (Dijkstra)
+
+Digrafo Lista de Adjacências exe
+Tempo de execução: 17601400 ns
+Tempo de execução: 2426445300 ns
+Tempo de execução: 1886900 ns
+Tempo de execução: 1669900 ns
+Tempo de execução: 1476500 ns
+Tempo de execução: 1477500 ns
+Tempo de execução: 1483100 ns
+Tempo de execução: 1524700 ns
+Tempo de execução: 1542900 ns
+Tempo de execução: 1587600 ns
+
+Digrafo Matriz de Adjacências exe
+Tempo de execução: 2517751700 ns
+Tempo de execução: 3903200 ns
+Tempo de execução: 3801200 ns
+Tempo de execução: 3822600 ns
+Tempo de execução: 3760000 ns
+Tempo de execução: 3748300 ns
+Tempo de execução: 31270800 ns
+Tempo de execução: 3569800 ns
+Tempo de execução: 480096500 ns
+Tempo de execução: 3765100 ns
+
+Digrafo Lista de Adjacências: 246.386.080 ns
+Digrafo Matriz de Adjacências: 304.249.820 ns
+
+
+
+---> Algoritmo: Caminho Mínimo (Bellman-Ford)
+
+Digrafo Lista de Adjacências exe
+Tempo de execução: 188398000 ns
+Tempo de execução: 352393700 ns
+Tempo de execução: 59194700 ns
+Tempo de execução: 113462500 ns
+Tempo de execução: 76573200 ns
+Tempo de execução: 126643300 ns
+Tempo de execução: 3344198900 ns
+Tempo de execução: 258674300 ns
+Tempo de execução: 114614900 ns
+Tempo de execução: 445807500 ns
+
+Digrafo Matriz de Adjacências exe
+Tempo de execução: 490277400 ns
+Tempo de execução: 824133500 ns
+Tempo de execução: 490522300 ns
+Tempo de execução: 294951900 ns
+Tempo de execução: 322513700 ns
+Tempo de execução: 351493700 ns
+Tempo de execução: 259514700 ns
+Tempo de execução: 200057000 ns
+Tempo de execução: 202210000 ns
+Tempo de execução: 238363300 ns
+
+Digrafo Lista de Adjacências: 556.316.800 ns
+Digrafo Matriz de Adjacências: 397.103.050 ns
+
+============================================== sample200-31840 ==============================================
+
+---> Algoritmo: Caminho Mínimo (Dijkstra)
+
+Digrafo Lista de Adjacências exe
+Tempo de execução: 178171900 ns
+Tempo de execução: 285639100 ns
+Tempo de execução: 52302400 ns
+Tempo de execução: 310757900 ns
+Tempo de execução: 2670700 ns
+Tempo de execução: 2531300 ns
+Tempo de execução: 2995200 ns
+Tempo de execução: 3229700 ns
+Tempo de execução: 2865600 ns
+Tempo de execução: 2705200 ns
+
+Digrafo Matriz de Adjacências exe
+Tempo de execução: 54331300 ns
+Tempo de execução: 69951600 ns
+Tempo de execução: 5315700 ns
+Tempo de execução: 5142000 ns
+Tempo de execução: 245398800 ns
+Tempo de execução: 6945000 ns
+Tempo de execução: 10709000 ns
+Tempo de execução: 7604000 ns
+Tempo de execução: 4722300 ns
+Tempo de execução: 4663600 ns
+
+Digrafo Lista de Adjacências: 56.515.580 ns
+Digrafo Matriz de Adjacências: 47.318.720 ns
+
+
+
+---> Algoritmo: Caminho Mínimo (Bellman-Ford)
+
+Digrafo Lista de Adjacências exe
+Tempo de execução: 679791800 ns
+Tempo de execução: 173239100 ns
+Tempo de execução: 101692400 ns
+Tempo de execução: 197766100 ns
+Tempo de execução: 82823700 ns
+Tempo de execução: 311963400 ns
+Tempo de execução: 307725500 ns
+Tempo de execução: 77456800 ns
+Tempo de execução: 82848400 ns
+Tempo de execução: 130857000 ns
+
+Digrafo Matriz de Adjacências exe
+Tempo de execução: 2225645500 ns
+Tempo de execução: 238298500 ns
+Tempo de execução: 230207500 ns
+Tempo de execução: 176638700 ns
+Tempo de execução: 189363900 ns
+Tempo de execução: 216541500 ns
+Tempo de execução: 172219200 ns
+Tempo de execução: 204174800 ns
+Tempo de execução: 206606700 ns
+Tempo de execução: 282160000 ns
+
+Digrafo Lista de Adjacências: 215.579.450 ns
+Digrafo Matriz de Adjacências: 348.869.330 ns
+
+
+
+============================================== sample200-39800 ==============================================
+
+---> Algoritmo: Caminho Mínimo (Dijkstra)
+
+Digrafo Lista de Adjacências exe
+Tempo de execução: 16752900 ns
+Tempo de execução: 213152700 ns
+Tempo de execução: 3937700 ns
+Tempo de execução: 2762400 ns
+Tempo de execução: 2446400 ns
+Tempo de execução: 2502300 ns
+Tempo de execução: 2368100 ns
+Tempo de execução: 2332600 ns
+Tempo de execução: 2422000 ns
+Tempo de execução: 2682400 ns
+
+Digrafo Matriz de Adjacências exe
+Tempo de execução: 257854600 ns
+Tempo de execução: 261758800 ns
+Tempo de execução: 6243700 ns
+Tempo de execução: 4537300 ns
+Tempo de execução: 4614600 ns
+Tempo de execução: 4754200 ns
+Tempo de execução: 4384900 ns
+Tempo de execução: 4511700 ns
+Tempo de execução: 7079200 ns
+Tempo de execução: 4457400 ns
+
+Digrafo Lista de Adjacências: 24.104.340 ns
+Digrafo Matriz de Adjacências: 58.470.300 ns
+
+
+
+---> Algoritmo: Caminho Mínimo (Bellman-Ford)
+
+Digrafo Lista de Adjacências exe
+Tempo de execução: 596689900 ns
+Tempo de execução: 230995700 ns
+Tempo de execução: 107605500 ns
+Tempo de execução: 177163000 ns
+Tempo de execução: 95162300 ns
+Tempo de execução: 125325700 ns
+Tempo de execução: 114954300 ns
+Tempo de execução: 131835300 ns
+Tempo de execução: 110178100 ns
+Tempo de execução: 99839400 ns
+
+Digrafo Matriz de Adjacências exe
+Tempo de execução: 280758800 ns
+Tempo de execução: 247287900 ns
+Tempo de execução: 189065600 ns
+Tempo de execução: 187373800 ns
+Tempo de execução: 169410700 ns
+Tempo de execução: 188831400 ns
+Tempo de execução: 170139500 ns
+Tempo de execução: 185058100 ns
+Tempo de execução: 170310600 ns
+Tempo de execução: 228852000 ns
+
+Digrafo Lista de Adjacências: 178.168.880 ns
+Digrafo Matriz de Adjacências: 202.108.040 ns
+
+
+
+============================================== sample500-49900 ==============================================
+
+---> Algoritmo: Caminho Mínimo (Dijkstra)
+
+Digrafo Lista de Adjacências exe
+Tempo de execução: 19665200 ns
+Tempo de execução: 8672600 ns
+Tempo de execução: 20737600 ns
+Tempo de execução: 5154500 ns
+Tempo de execução: 8414500 ns
+Tempo de execução: 8062600 ns
+Tempo de execução: 8769000 ns
+Tempo de execução: 7941400 ns
+Tempo de execução: 21168200 ns
+Tempo de execução: 8188900 ns
+
+Digrafo Matriz de Adjacências exe
+Tempo de execução: 353643100 ns
+Tempo de execução: 68775600 ns
+Tempo de execução: 86005200 ns
+Tempo de execução: 13606300 ns
+Tempo de execução: 226250600 ns
+Tempo de execução: 13364500 ns
+Tempo de execução: 15279600 ns
+Tempo de execução: 13166700 ns
+Tempo de execução: 16897700 ns
+Tempo de execução: 13308300 ns
+
+Digrafo Lista de Adjacências: 10.848.980 ns
+Digrafo Matriz de Adjacências: 88.972.800 ns
+
+
+
+---> Algoritmo: Caminho Mínimo (Bellman-Ford)
+
+Digrafo Lista de Adjacências exe
+Tempo de execução: 954559900 ns
+Tempo de execução: 618890500 ns
+Tempo de execução: 366307900 ns
+Tempo de execução: 405253300 ns
+Tempo de execução: 416343800 ns
+Tempo de execução: 607381700 ns
+Tempo de execução: 419557000 ns
+Tempo de execução: 475305500 ns
+Tempo de execução: 357266100 ns
+Tempo de execução: 399950800 ns
+
+Digrafo Matriz de Adjacências exe
+Tempo de execução: 1657742600 ns
+Tempo de execução: 1585140500 ns
+Tempo de execução: 1464911400 ns
+Tempo de execução: 1436466700 ns
+Tempo de execução: 1431713800 ns
+Tempo de execução: 1620813500 ns
+Tempo de execução: 1435362700 ns
+Tempo de execução: 1431408500 ns
+Tempo de execução: 1415676600 ns
+Tempo de execução: 1404662000 ns
+
+Digrafo Lista de Adjacências: 462.981.450 ns
+Digrafo Matriz de Adjacências: 153.908.210 ns
+
+============================================== sample500-99800 ==============================================
+
+---> Algoritmo: Caminho Mínimo (Dijkstra)
+
+Digrafo Lista de Adjacências exe
+Tempo de execução: 123538000 ns
+Tempo de execução: 186099200 ns
+Tempo de execução: 7684400 ns
+Tempo de execução: 204215700 ns
+Tempo de execução: 21608200 ns
+Tempo de execução: 19286300 ns
+Tempo de execução: 10880400 ns
+Tempo de execução: 15550700 ns
+Tempo de execução: 11335800 ns
+Tempo de execução: 24440700 ns
+
+Digrafo Matriz de Adjacências exe
+Tempo de execução: 83500900 ns
+Tempo de execução: 199003500 ns
+Tempo de execução: 81377200 ns
+Tempo de execução: 20431400 ns
+Tempo de execução: 108041700 ns
+Tempo de execução: 33444200 ns
+Tempo de execução: 21013300 ns
+Tempo de execução: 22197800 ns
+Tempo de execução: 20327800 ns
+Tempo de execução: 20713800 ns
+
+Digrafo Lista de Adjacências: 59.205.240 ns
+Digrafo Matriz de Adjacências: 79.672.880 ns
+
+
+
+---> Algoritmo: Caminho Mínimo (Bellman-Ford)
+
+Digrafo Lista de Adjacências exe
+Tempo de execução: 2178688300 ns
+Tempo de execução: 1662393800 ns
+Tempo de execução: 1140142400 ns
+Tempo de execução: 1113465600 ns
+Tempo de execução: 1110666800 ns
+Tempo de execução: 1485764100 ns
+Tempo de execução: 1145748500 ns
+Tempo de execução: 1156395400 ns
+Tempo de execução: 1129093300 ns
+Tempo de execução: 1104076900 ns
+
+Digrafo Matriz de Adjacências exe
+Tempo de execução: 2600367500 ns
+Tempo de execução: 2499802300 ns
+Tempo de execução: 2192471700 ns
+Tempo de execução: 2174071700 ns
+Tempo de execução: 2159899600 ns
+Tempo de execução: 2213876200 ns
+Tempo de execução: 2191114400 ns
+Tempo de execução: 2231534000 ns
+Tempo de execução: 2201104500 ns
+Tempo de execução: 2227556600 ns
+
+Digrafo Lista de Adjacências: 1.322.642.600 ns
+Digrafo Matriz de Adjacências: 2.187.798.600 ns
+
+
+
+============================================== sample500-149700 ==============================================
+
+---> Algoritmo: Caminho Mínimo (Dijkstra)
+
+Digrafo Lista de Adjacências exe
+Tempo de execução: 55694500 ns
+Tempo de execução: 36517400 ns
+Tempo de execução: 35107700 ns
+Tempo de execução: 334813500 ns
+Tempo de execução: 20620100 ns
+Tempo de execução: 18205000 ns
+Tempo de execução: 17051800 ns
+Tempo de execução: 22554400 ns
+Tempo de execução: 16702300 ns
+Tempo de execução: 18554500 ns
+
+Digrafo Matriz de Adjacências exe
+Tempo de execução: 249375000 ns
+Tempo de execução: 125952600 ns
+Tempo de execução: 36302400 ns
+Tempo de execução: 29673000 ns
+Tempo de execução: 47114700 ns
+Tempo de execução: 245576400 ns
+Tempo de execução: 31031000 ns
+Tempo de execução: 33642900 ns
+Tempo de execução: 30287400 ns
+Tempo de execução: 30378700 ns
+
+Digrafo Lista de Adjacências: 58.709.620 ns
+Digrafo Matriz de Adjacências: 92.190.610 ns
+
+
+
+---> Algoritmo: Caminho Mínimo (Bellman-Ford)
+
+Digrafo Lista de Adjacências exe
+Tempo de execução: 5188039900 ns
+Tempo de execução: 4994490100 ns
+Tempo de execução: 2886492700 ns
+Tempo de execução: 2820366700 ns
+Tempo de execução: 2933833800 ns
+Tempo de execução: 2760682500 ns
+Tempo de execução: 2796641000 ns
+Tempo de execução: 2736195100 ns
+Tempo de execução: 2759944300 ns
+Tempo de execução: 3033060600 ns
+
+Digrafo Matriz de Adjacências exe
+Tempo de execução: 9064800500 ns
+Tempo de execução: 7678017700 ns
+Tempo de execução: 8652509600 ns
+Tempo de execução: 8337723700 ns
+Tempo de execução: 8575919400 ns
+Tempo de execução: 8031717500 ns
+Tempo de execução: 8207983100 ns
+Tempo de execução: 8257375000 ns
+Tempo de execução: 9263242400 ns
+Tempo de execução: 10214446300 ns
+
+Digrafo Lista de Adjacências: 3.204.767.600 ns
+Digrafo Matriz de Adjacências: 8.848.483.200 ns
+
+============================================== sample500-199600 ==============================================
+
+---> Algoritmo: Caminho Mínimo (Dijkstra)
+
+Digrafo Lista de Adjacências exe
+Tempo de execução: 101482700 ns
+Tempo de execução: 262989700 ns
+Tempo de execução: 29949500 ns
+Tempo de execução: 28063600 ns
+Tempo de execução: 29699100 ns
+Tempo de execução: 28871400 ns
+Tempo de execução: 28571000 ns
+Tempo de execução: 30416700 ns
+Tempo de execução: 40678300 ns
+Tempo de execução: 73638700 ns
+
+Digrafo Matriz de Adjacências exe
+Tempo de execução: 129917900 ns
+Tempo de execução: 89942200 ns
+Tempo de execução: 37922300 ns
+Tempo de execução: 155644300 ns
+Tempo de execução: 33987600 ns
+Tempo de execução: 43683100 ns
+Tempo de execução: 51932200 ns
+Tempo de execução: 34783100 ns
+Tempo de execução: 45277200 ns
+Tempo de execução: 38383800 ns
+
+Digrafo Lista de Adjacências: 73.664.670 ns
+Digrafo Matriz de Adjacências: 72.526.260 ns
+
+
+
+---> Algoritmo: Caminho Mínimo (Bellman-Ford)
+
+Digrafo Lista de Adjacências exe
+Tempo de execução: 7286707600 ns
+Tempo de execução: 6735883900 ns
+Tempo de execução: 5389270500 ns
+Tempo de execução: 5674531600 ns
+Tempo de execução: 5416736200 ns
+Tempo de execução: 5600043200 ns
+Tempo de execução: 5235029900 ns
+Tempo de execução: 5191172100 ns
+Tempo de execução: 6190199800 ns
+Tempo de execução: 7264454900 ns
+
+Digrafo Matriz de Adjacências exe
+Tempo de execução: 10363733900 ns
+Tempo de execução: 9861275100 ns
+Tempo de execução: 9222302900 ns
+Tempo de execução: 9394749300 ns
+Tempo de execução: 9637329200 ns
+Tempo de execução: 13184682800 ns
+Tempo de execução: 9404909000 ns
+Tempo de execução: 9258505200 ns
+Tempo de execução: 9428272000 ns
+Tempo de execução: 9558372700 ns
+
+Digrafo Lista de Adjacências: 6.276.640.400 ns
+Digrafo Matriz de Adjacências: 10.557.635.100 ns
+
+============================================== sample500-249500 ==============================================
+
+---> Algoritmo: Caminho Mínimo (Dijkstra)
+
+Digrafo Lista de Adjacências exe
+Tempo de execução: 80730400 ns
+Tempo de execução: 200699600 ns
+Tempo de execução: 58363800 ns
+Tempo de execução: 84752400 ns
+Tempo de execução: 36564100 ns
+Tempo de execução: 39445200 ns
+Tempo de execução: 68125500 ns
+Tempo de execução: 35521500 ns
+Tempo de execução: 166848500 ns
+Tempo de execução: 51758400 ns
+
+Digrafo Matriz de Adjacências exe
+Tempo de execução: 105199900 ns
+Tempo de execução: 33213300 ns
+Tempo de execução: 185481000 ns
+Tempo de execução: 26188900 ns
+Tempo de execução: 28016600 ns
+Tempo de execução: 26776500 ns
+Tempo de execução: 27391700 ns
+Tempo de execução: 27016000 ns
+Tempo de execução: 27453000 ns
+Tempo de execução: 27059500 ns
+
+Digrafo Lista de Adjacências: 90.241.930 ns
+Digrafo Matriz de Adjacências: 59.245.340 ns
+
+
+
+---> Algoritmo: Caminho Mínimo (Bellman-Ford)
+
+Digrafo Lista de Adjacências exe
+Tempo de execução: 9555626800 ns
+Tempo de execução: 8165248900 ns
+Tempo de execução: 6585294000 ns
+Tempo de execução: 6410274100 ns
+Tempo de execução: 6450443600 ns
+Tempo de execução: 8842437000 ns
+Tempo de execução: 7650247300 ns
+Tempo de execução: 18661244500 ns
+Tempo de execução: 7329579900 ns
+Tempo de execução: 7201759500 ns
+
+Digrafo Matriz de Adjacências exe
+Tempo de execução: 13435999000 ns
+Tempo de execução: 10035913100 ns
+Tempo de execução: 9563726600 ns
+Tempo de execução: 9837726700 ns
+Tempo de execução: 10090674700 ns
+Tempo de execução: 9459402699 ns
+Tempo de execução: 9999867500 ns
+Tempo de execução: 9094766599 ns
+Tempo de execução: 10176595900 ns
+Tempo de execução: 12478330900 ns
+
+Digrafo Lista de Adjacências: 9.548.297.480 ns
+Digrafo Matriz de Adjacências: 10.813.434.360 ns
+

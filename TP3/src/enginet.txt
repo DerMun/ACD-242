@@ -1,0 +1,61 @@
+1AR, 182-187, 182-186, Toyota, 4, 4, 2008-present
+1AZ, 145-150, 140-142, Toyota, 4, 4, 2000-present
+1GD, 175, 310-332, Toyota, 4, 4, 2015-present
+1GR, 236-285, 266-285, Toyota, 6, 4, 2002-present
+1JZ, 170-280, 173-280, Toyota, 6, 4, 1990-2007
+1MZ, 194-210, 183-242, Toyota, 6, 4, 1993-2008
+1NZ, 109, 104, Toyota, 4, 4, 1997-present
+1ZZ, 120-140, 122-126, Toyota, 4, 4, 1998-2007
+2AR, 169-180, 167-173, Toyota, 4, 4, 2008-present
+2AZ, 160, 162, Toyota, 4, 4, 2000-present
+2JZ,215-325, 209-333, Toyota, 6, 4, 1991-2007
+M40B16, 102, 105, BMW, 4, 2, 1987-1994
+M40B18, 113, 120, BMW, 4, 2, 1987-1994
+M52B20, 148, 140, BMW, 6, 4, 1994-2000
+M52B28, 193, 210, BMW, 6, 4, 1995-2000
+N42B20, 143, 148, BMW, 4, 4, 2001-2004
+S52B32, 240, 240, BMW, 6, 4, 1996-2000
+2.0L Turbo GME Hurricane, 270, 295, Chrysler, 4, 4, 2016-present
+2.4L Tigershark MultiAir, 178-184, 171-179, Chrysler, 4, 4, 2012-present
+3.0L EcoDiesel V6, 240-260, 420-480, Chrysler, 6, 4, 2011-present
+3.6L V6 Pentastar, 283-305, 340-365, Chrysler, 6, 4, 2010-present
+3.7L V6 PowerTech, 210, 235, Chrysler, 6, 2, 2002-2012
+4.7L V8 PowerTech, 235-310, 295-334, Chrysler, 8, 2, 1999-2013
+5.7L 345 HEMI, 340-395, 375-410, Chrysler, 8, 2, 2003-present
+6.1L HEMI, 425, 420, Chrysler, 8, 2, 2005-2010
+6.4L 392 HEMI, 366-485, 429-475, Chrysler, 8, 2, 2011-present
+4B11/4B11T 2.0L, 200, 280, Mitsubishi, 4, 4, 2007-2016
+4G63 2.0L, 135, 180, Mitsubishi, 4, 4, 1988-2000
+4G63T 2.0T, 190, 250, Mitsubishi, 4, 4, 1988-2000
+6G72 3.0L, 190, 269, Mitsubishi, 6, 4, 1990-2005
+2.0L Ecotec LTG, 275, 295, Chevrolet, 4, 4, 2013-present
+2.4L Ecotec, 182, 172, Chevrolet, 4, 4, 2006-2019
+2.7L L3B, 310, 430, Chevrolet, 4, 4, 2019-present
+4.3L V6 EcoTec3 LV3, 285, 305, Chevrolet, 6, 2, 2014-present
+5.3L EcoTec3 L83, 355, 383, Chevrolet, 8, 2, 2014-present
+6.2L EcoTec3 L86/L87, 420, 460, Chevrolet, 8, 2, 2014-present
+F14D3 1.4L, 94, 130, Chevrolet, 4, 4, 2002-2010
+F16D3 1.6L, 109, 150, Chevrolet, 4, 4, 2002-2010
+F16D4 1.6L, 115, 155, Chevrolet, 4, 4, 2008-present
+F18D3 (T18SED), 121, 165, Chevrolet, 4, 4, 2002-2012
+1.3 TCe H5Ht, 130-160, 240-270, Renault, 4, 4, 2018-present
+D4F/D4Ft TCe 1.2L, 75-120, 105-190, Renault, 4, 4, 2001-2018
+F4R 2.0L, 135-200, 190-215, Renault, 4, 4, 1993-2013
+H4B 0.9 TCe, 90, 135, Renault, 3, 4, 2012-present
+K4M 1.6L, 105-115, 148-155, Renault, 4, 4, 1995-2016
+K7J 1.4L 8V, 75-80, 114-120, Renault, 4, 2, 1997-2016
+K7M 1.6L 8V, 85-95, 132-148, Renault, 4, 2, 1995-present
+K9K 1.5 dCi, 65-115, 160-260, Renault, 4, 4, 2001-present
+R9M 1.6 dCi 130, 130, 320, Renault, 4, 4, 2011-present
+
+
+
+
+
+
+
+
+
+
+
+
